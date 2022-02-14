@@ -3,6 +3,7 @@ import { Flex, Input, Button, Stack, FormControl, FormLabel } from '@chakra-ui/r
 
 export default function Home() {
   return (
+    
     <Flex 
       width='100vw' 
       height='100vh' 

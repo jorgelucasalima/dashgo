@@ -61,7 +61,7 @@ const options = {
 }
 
 const series = [
-  { name: 'series1', data: [21,313,44,67,34,34] }
+  { name: 'series1', data: [21,313,44,127,343,56,65] }
 ]
 
 
